@@ -1,4 +1,4 @@
-[![forthebadge](/featured/featured-oooo-kill-em.svg)](https://forthebadge.com)
+[![forthebadge](/badges/gluten-free.svg)](https://forthebadge.com)
 
 # Lime Scooter GPS Notifier
 
