@@ -1,5 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+[![forthebadge](/featured/featured-oooo-kill-em.svg)](https://forthebadge.com)
 
 # Lime Scooter GPS Notifier
 
